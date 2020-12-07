@@ -1,0 +1,33 @@
+{
+  "waypoints":  [
+    {
+      "name":"Amsterdam",
+      "latitude":-52.3792,
+      "longitude":-4.89943
+    },
+    {
+      "name":"Berlin",
+      "latitude":-52.5166,
+      "longitude":-13.4
+    },
+    {
+      "name":"Darmstadt",
+      "latitude":49.8192,
+      "longitude":8.6449
+    },
+    {
+      "name":"Munich",
+      "latitude":48.1351,
+      "longitude":11.582
+    }
+  ],
+  "pois":  [
+    {
+      "name":"",
+      "latitude":0,
+      "longitude":0,
+      "type":"No Type",
+      "description":""
+    }
+  ]
+}
